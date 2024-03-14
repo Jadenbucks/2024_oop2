@@ -1,2 +1,3 @@
 home
-home2
+
+home commit 취소 원래 위에 home2 있었음
